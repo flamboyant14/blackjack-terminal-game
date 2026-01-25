@@ -1,6 +1,6 @@
 # Importes y archivos
 import random
-registroTransacciones = open("txts/registroTransacciones.txt", "w")
+registroTransacciones = open("registroTransacciones.txt", "w")
 registroTransacciones.write("Bienvenido al registro de transacciones de mi casino.\n")
 
 # Sistema de juego
