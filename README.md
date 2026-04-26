@@ -7,7 +7,7 @@ Como correr el programa:
 1. Descargar archivo
 2. Usar el comando 'python' o 'python3' en la terminal junto con la dirección al archivo en tu computadora.
 3. Seguir instrucciones en la terminal para jugar.
-4. Al terminar de jugar salir del programa y revisar el archivo de transacciones para un registro de todos los movimientos.
+4. Al terminar de jugar, salir del programa y revisar el archivo de transacciones para un registro de todos los movimientos.
 
 Tecnologías usadas:
 - Python
